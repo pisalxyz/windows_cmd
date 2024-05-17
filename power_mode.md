@@ -17,4 +17,4 @@ pause
 Choose File > Save As.
 In the "Save as type" dropdown, select "All Files".
 Name the file ActivateUltimatePerformance.cmd (make sure it has the .cmd extension).
-Run it as Admin
+Run it as Adminstator
